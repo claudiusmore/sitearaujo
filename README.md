@@ -1,2 +1,0 @@
-# sitearaujo
-site
